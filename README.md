@@ -7,6 +7,7 @@
 * [Utilizing Online Resources](#utilizing-online-resources)
 
 ## Download SSMS
+Download the latest release from [Releases](https://github.com/ssmsdoc/SSMS/releases/tag/21.4.12)
 
 Version 20.2 of SSMS marks the most recent general availability (GA) release. If you're using a preview build of SSMS 20, it's recommended to uninstall it before beginning the new installation process. Note that installing SSMS 20.2 won’t overwrite older versions like SSMS 19.x.
 
